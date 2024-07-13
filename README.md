@@ -1,6 +1,6 @@
 ## Hi there, Alona here! 
 I'm a Frontend Developer focusing on building robust skills in full-stack web development to create impactful and dynamic web applications. 
- [![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/alona-chmovzh-492939124)
+ [![Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/alona-chmovzh-492939124)
 
 
 
