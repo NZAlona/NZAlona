@@ -9,6 +9,13 @@ I'm a Frontend Developer focusing on building robust skills in full-stack web de
 
 
 
+<a href="https://www.linkedin.com/in/alona-chmovzh-492939124" target="_blank" style="display: inline-block; border: 1px solid #0077B5; padding: 4px 8px; border-radius: 4px; text-decoration: none; color: blue;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="16" height="16" style="vertical-align: middle; margin-right: 4px;"/> 
+    Alona
+</a>
+
+
+
 
 
 
