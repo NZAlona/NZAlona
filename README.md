@@ -2,15 +2,12 @@
 I'm a Frontend Developer focusing on building robust skills in full-stack web development to create impactful and dynamic web applications. 
 
 
-<a href="https://www.linkedin.com/in/alona-chmovzh-492939124" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="16" height="16" style="margin-right: 4px;"/> 
-    <span style="color: blue;">Alona</span>
-</a>
 
 
 
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/alona-chmovzh-492939124) [Alona](https://www.linkedin.com/in/alona-chmovzh-492939124)
+
+
 
 
 
