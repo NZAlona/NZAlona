@@ -4,7 +4,8 @@ I'm a Frontend Developer focusing on building robust skills in full-stack web de
 I have degress in Economics and Business, and I've also completed a one-year Fullstack Developer course. My project experience includes both team projects and individual projects. I'm currently focused on learning new popular frameworks to expand my tech stack even further. 
 
 **My tech stack:**
-<div align="center">
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: center; margin-right: 20px;">
   <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png" alt="React Logo" /><br>
     <span>React.js</span>
@@ -14,6 +15,7 @@ I have degress in Economics and Business, and I've also completed a one-year Ful
 <br>
     <span>JavaScript</span>
   </p>
+</div>
 </div>
 
 
