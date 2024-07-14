@@ -5,7 +5,8 @@ I have degress in Economics and Business, and I've also completed a one-year Ful
 
 My tech stack:
 
-![npm](https://img.shields.io/npm/v/react)
+![React](https://img.shields.io/badge/React-16.x-blue.svg)
+
 
 
 
