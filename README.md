@@ -15,6 +15,12 @@ I have degress in Economics and Business, and I've also completed a one-year Ful
   </tr>
 </table>
 </div>
+<div align="center">
+  <p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png" alt="React Logo" /><br>
+    <strong>React.js</strong>
+  </p>
+</div>
 
 
 
