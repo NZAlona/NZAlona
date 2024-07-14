@@ -6,6 +6,7 @@ I have degress in Economics and Business, and I've also completed a one-year Ful
 **My tech stack:**
 
 ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png)
+
 React.js
 
 
