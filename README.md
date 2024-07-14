@@ -6,8 +6,7 @@ I have degress in Economics and Business, and I've also completed a one-year Ful
 **My tech stack:**
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png" alt="React Logo" />
-</p>
-<h5 align="center">React.js</h5>
+</p> <h5 align="center">React.js</h5>
 
 
 
