@@ -1,6 +1,6 @@
 ## Hi there, Alona here! 
 I'm a Frontend Developer focusing on building robust skills in full-stack web development to create impactful and dynamic web applications. 
-
+I have degress in Economics and Business, and I've also completed a one-year Fullstack Developer course. My project experience includes both team projects and individual projects. I'm currently focused on learning new popular frameworks to expand my tech stack even further. 
 
 
 
