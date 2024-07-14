@@ -8,7 +8,7 @@ I have degress in Economics and Business, and I've also completed a one-year Ful
 <div style="display: flex; justify-content: center;">
 <table style="border: none; text-align: center;">
   <tr>
-     <td style="border: none; padding: 10px;">
+     <td style="border: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png" alt="React Logo" />
       <br>React.js
     </td>
