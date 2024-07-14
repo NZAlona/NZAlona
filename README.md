@@ -6,7 +6,7 @@ I have degress in Economics and Business, and I've also completed a one-year Ful
 
 **My tech stack:**
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="text-align: center;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/32px-JavaScript-logo.png" alt="JavaScript Logo"  height="38"/>
    <br>
