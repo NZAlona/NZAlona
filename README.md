@@ -5,10 +5,10 @@ I have degress in Economics and Business, and I've also completed a one-year Ful
 
 **My tech stack:**
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<div style="display: flex; justify-content: center;">
+<table style="border: none; text-align: center;">
   <tr>
-     <td align="center"  width="88">
+     <td style="border: none; padding: 10px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png" alt="React Logo" />
       <br>React.js
     </td>
