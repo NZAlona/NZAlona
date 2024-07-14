@@ -9,6 +9,10 @@ I have degress in Economics and Business, and I've also completed a one-year Ful
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png" alt="React Logo" /><br>
     <span>React.js</span>
   </p>
+    <p align="center">
+    <img src="https://images.unsplash.com/photo-1516467508483-a7212febe352" alt="JavaScript"><br>
+    <span>JavaScript</span>
+  </p>
 </div>
 
 
