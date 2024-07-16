@@ -84,4 +84,18 @@ I have degrees in Economics and Business, and I've also completed a one-year Ful
 
 **GitHub Stats:**
 
-![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=NZAlona&show_icons=true&hide=stars)
+<table align="center" >
+  <tr>
+  <td style="background-color: white">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NZAlona&show_icons=true&hide=stars&hide_border=true" alt="Alona's github stats" />
+  </td>
+  <td style="background-color: white">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZAlona&layout=compact&theme=buefy&hide_border=true" alt="Alona's GitHub most used languages"/>
+  </td>
+  </tr>
+  <tr style="background-color: white">
+  <td colspan=2 align="center" >
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NZAlona&hide_border=true" alt="Alona's GitHub Readme Streak Stats" />
+  </td>
+  </tr>
+</table>
