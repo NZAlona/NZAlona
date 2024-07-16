@@ -6,7 +6,7 @@ I have degrees in Economics and Business, and I've also completed a one-year Ful
 
 **My tech stack:**
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;">
     <div>
         <table style="text-align: center;">
             <tr>
