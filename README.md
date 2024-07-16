@@ -72,22 +72,16 @@ I have degrees in Economics and Business, and I've also completed a one-year Ful
                     <br>
                     <span>Git</span>
                 </td>
+                 <td align="center" width="88">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode Logo" width="32" height="25">
+                    <br>
+                    <span>VSCode</span>
+                </td>
             </tr>
         </table>
     </div>
 </div>
 
-<!--
-**NZAlona/NZAlona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GitHub Stats:**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=NZAlona&show_icons=true)
