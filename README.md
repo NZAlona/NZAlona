@@ -84,4 +84,4 @@ I have degrees in Economics and Business, and I've also completed a one-year Ful
 
 **GitHub Stats:**
 
-![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=NZAlona&show_icons=true)
+![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=NZAlona&show_icons=true&hide=stars)
